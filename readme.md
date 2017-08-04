@@ -1,3 +1,3 @@
 # CodewaRs
 
-** Completing Codewars problems in R for practice. **
+**Completing Codewars problems in R for practice.**
