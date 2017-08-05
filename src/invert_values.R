@@ -1,7 +1,7 @@
 invert <- function(nums) {
   if (length(nums) == 0) {
-    return nums
+    return(nums)
   }
   nums <- rev(nums)
-  return nums * -1
+  return(nums * -1)
 }
