@@ -1,3 +1,5 @@
+# Write a function that takes in an amount of money and returns a nicely formatted dollar amount
+
 dollars_and_cents <- function(n) {
   n <- toString(n)
   if (!(grepl('\\.', n))) {

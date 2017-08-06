@@ -1,3 +1,5 @@
+# Write a function that takes in a list and reverse the signs and order of the elements
+
 invert <- function(nums) {
   if (length(nums) == 0) {
     return(nums)
